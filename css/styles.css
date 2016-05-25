@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-style: oblique;
+  font-family: monospace;
+}
+
+.objective {
+  text-align: center;
+  font-size: 25px;
+  font-family: monospace;
+}
+
+.contact {
+  text-align: center;
+  font-size: 25px;
+  font-style: oblique;
+  font-family: monospace;
+}
+
+.content {
+  text-align: center;
+  font-family: monospace;
+}
+
+.highlight:hover {
+  background-color: yellow
+
+}
